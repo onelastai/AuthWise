@@ -1,0 +1,2 @@
+class AuthWiseController < ApplicationController
+end

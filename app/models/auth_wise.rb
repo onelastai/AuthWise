@@ -1,0 +1,2 @@
+class AuthWise < ApplicationRecord
+end
